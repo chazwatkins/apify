@@ -9,6 +9,8 @@ This client provides a complete set of operations for interacting with the Apify
 - Handling datasets
 - Managing webhooks
 
+⚠️ This library is a work in progress.  Feel free to try it out.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
